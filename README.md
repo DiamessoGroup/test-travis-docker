@@ -1,4 +1,4 @@
 # node-docker
 Simple node and express docker 
 
-Test with Travis
+Test with Travis and Docker
